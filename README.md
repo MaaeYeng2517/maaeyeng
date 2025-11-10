@@ -4,7 +4,7 @@ The open source for infomation management. This Component Base Structure adn Ser
 ### Use Cases
 ### Type of Engine
 1. Game Engines
-2. Search Engines
+2. SEO Engines
 3. Database Engines
 4. Web & Browser Engines
 5. Search Information Engines
