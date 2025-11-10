@@ -6,10 +6,11 @@ The open source for infomation management
 
 ### Tools
 ###
-<b> 👩‍💻 Languages 🔝 </b>
+<b> 👩‍💻 Languages Base 🔝 </b>
 <div>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="40" alt="jest logo"  />
 </div>
+<b> 👩‍💻 Languages Framework 🔝 </b>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
