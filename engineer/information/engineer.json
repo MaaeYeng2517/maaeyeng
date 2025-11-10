@@ -1,0 +1,23 @@
+{
+    "engineer": {
+    "name": "MaaeyengEngineer",
+    "id": "engineer-001",
+    "skills": ["JavaScript", "Node.js", "React"],
+    "experience": 5,
+    "projects": [
+        {
+            "name": "Project A",
+            "duration": "6 months",
+            "technologies": ["Node.js", "Express", "MongoDB"]
+        },
+        {
+            "name": "Project B",
+            "duration": "1 year",
+            "technologies": ["React", "Redux", "TypeScript"]
+        }
+    ],
+    "contact": {
+        "email": "maaeyeng.engineer@example.com"
+    }
+}
+}

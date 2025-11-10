@@ -1,12 +1,14 @@
-"server" {
-    "servername": "MaaeyengServer",
-    "port": 8080,
-    "host": "localhost",
-    "ssl": {
-        "enabled": false,
-        "keyPath": "/path/to/key.pem",
+{
+    "server": {
+        "servername": "MaaeyengServer",
+        "port": 8080,
+        "host": "localhost",
+        "ssl": {
+            "enabled": false,
+            "keyPath": "/path/to/key.pem",
         "certPath": "/path/to/cert.pem"
     },
     "timeout": 120000,
     "maxConnections": 1000
     }
+}

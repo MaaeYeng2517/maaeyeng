@@ -1,0 +1,39 @@
+{
+    "service": {
+        "name": "MaaeyengService",
+        "port": 8081,
+        "host": "localhost",
+        "timeout": 60000
+    },
+    "logging": {
+        "level": "info",
+        "filePath": "/var/log/maaeyeng/service.log"
+    },
+    "database": {
+        "type": "postgresql",
+        "host": "db.maayeng.local",
+        "port": 5432,
+        "username": "maaeyeng_user",
+        "password": "securepassword",
+        "databaseName": "maaeyeng_db"
+    },
+    "features": {
+        "enableFeatureX": true,
+        "enableFeatureY": false
+    },
+    "api": {
+        "basePath": "/api/v1",
+        "rateLimit": {
+            "windowMs": 60000,
+            "maxRequests": 100
+        }
+    },
+    "security": {
+        "cors": {
+            "enabled": true,
+            "allowedOrigins": ["http://localhost:3000", "http://example.com"]
+        },
+        "csrfProtection": true
+    },
+    "maintenanceMode": false
+}
