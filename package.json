@@ -1,0 +1,24 @@
+{
+  "name": "devo",
+  "version": "1.0.0",
+  "description": "The open source for infomation management. This Component Base Structure adn Service Base.",
+  "homepage": "https://github.com/MaaeYeng2517/maaeyeng#readme",
+  "bugs": {
+    "url": "https://github.com/MaaeYeng2517/maaeyeng/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaaeYeng2517/maaeyeng.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

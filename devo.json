@@ -1,0 +1,18 @@
+{
+    "name": "deve",
+    "version": "1.0.0",
+    "description": "Development configuration file for the project.",
+    "author": "Maaeyeng Engineer Software Labs",
+    "license": "MIT",
+    "settings": {
+        "debug": true,
+        "logLevel": "verbose",
+        "autoReload": true
+},
+"startdate": "2024-06-01",
+"tools": [
+    "webpack",
+    "babel",
+    "eslint"
+]
+}
