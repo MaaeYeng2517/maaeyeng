@@ -2,10 +2,10 @@
 The open source for infomation management. This Component Base Structure adn Service Base.
 
 ### Use Cases
-1. Visualizations
-2. Data Soruce
-3. Dashboard
-4. Tranform Metrix
+1. <b>Visualizations</b>
+2. <b>Multi Data Soruce</b>
+3. <b>Active Dashboard</b>
+4. <b>Advance Tranform Metrix</b>
 
 ### Type of Engine
 1. <b>Game Engines</b>
