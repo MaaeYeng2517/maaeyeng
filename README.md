@@ -6,6 +6,7 @@ The open source for infomation management
 
 ### Tools
 ###
+<b> 👩‍💻 Languages 🔝 </b>
 <div>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="40" alt="jest logo"  />
 </div>
