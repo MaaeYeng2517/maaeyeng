@@ -7,7 +7,7 @@ The open source for infomation management. This Component Base Structure adn Ser
 2. SEO Engines
 3. Database Engines
 4. Web & Browser Engines
-5. Search Information Engines
+5. Search Information Engines a text search engine on large-scale collections of documents. 
 
 ## Quick Start
 
@@ -18,8 +18,8 @@ The open source for infomation management. This Component Base Structure adn Ser
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 
 [![GitHub Stars](https://img.shields.io/github/stars/usestrix/strix)](https://github.com/maaeyesnt/strix)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/YjKFvEZSdZ)
-[![Website](https://img.shields.io/badge/Website-usestrix.com-2d3748.svg)](https://usestrix.com)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)]
+[![Website](https://img.shields.io/badge/Website-usestrix.com-2d3748.svg)]
 ###
 <b> 👩‍💻 Languages Base 🔝 </b>
 <div style="margin-top: 10px;">
