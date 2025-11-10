@@ -10,5 +10,11 @@
     },
     "timeout": 120000,
     "maxConnections": 1000
+    },
+    "logging": {
+        "level": "info",
+        "filePath": "/var/log/maaeyeng/server.log",
+        "maxSizeMB": 50,
+        "maxFiles": 5
     }
 }
