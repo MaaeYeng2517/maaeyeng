@@ -1,0 +1,12 @@
+{
+    "appName": "MyApplication",
+    "version": "1.0.0",
+    "description": "This is a sample application configuration file.",
+    "author": "MaaeyengEngineer",
+    "license": "MIT",
+    "settings": {
+        "theme": "dark",
+        "language": "en-US",
+        "autoUpdate": true
+}
+}
