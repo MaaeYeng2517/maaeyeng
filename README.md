@@ -1,5 +1,5 @@
 # DEVO
-The open source for infomation management. This Component Base Structure adn Service Base.
+The Devoopen source for infomation management Plateform. This Component Base Structure adn Service Base.
 
 ### Use Cases
 1. <b>Visualizations</b>
