@@ -10,12 +10,12 @@ The Devoopen source for infomation management Plateform. This Component Base Str
 6. <b>Data Management</b>
 7. <b>Framework Management<b>
 
-### Type of Engine
+### Key Ferture Engine
 1. <b>Game Engines</b>
-2. SEO Engines
-3. Database Engines
-4. Web & Browser Engines
-5. Search Information Engines a text search engine on large-scale collections of documents. 
+2. <b>SEO Engines</b>
+3. <b>Data Engines </b>
+4. <b>Web & Browser Engines</b>
+5. <b>Search Information Engines</b> a text search engine on large-scale collections of documents. 
 
 ## Quick Start
 ```bash
@@ -23,6 +23,8 @@ git clone https://github.com/MaaeYeng2517/maaeyeng.git
 cd maaeyeng
 npm install
 ```
+
+
 ### Tools
 [![Python](https://img.shields.io/pypi/pyversions/strix-agent?color=3776AB)](https://pypi.org/project/strix-agent/)
 [![PyPI](https://img.shields.io/pypi/v/strix-agent?color=10b981)](https://pypi.org/project/strix-agent/)
