@@ -18,7 +18,11 @@ The Devoopen source for infomation management Plateform. This Component Base Str
 5. Search Information Engines a text search engine on large-scale collections of documents. 
 
 ## Quick Start
-
+```bash
+git clone https://github.com/MaaeYeng2517/maaeyeng.git
+cd maaeyeng
+npm install
+```
 ### Tools
 [![Python](https://img.shields.io/pypi/pyversions/strix-agent?color=3776AB)](https://pypi.org/project/strix-agent/)
 [![PyPI](https://img.shields.io/pypi/v/strix-agent?color=10b981)](https://pypi.org/project/strix-agent/)
