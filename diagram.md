@@ -6,7 +6,8 @@
 graph LR
     A[User Request] --> B[AI Agent]
     B --> C[Models API]
-    B --> D[GTool]
+    B --> D[Tool]
     C --> E[Itinerary]
     D --> E
+    E --> F[Result]
 ```
