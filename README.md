@@ -2,11 +2,13 @@
 The Devoopen source for infomation management Plateform. This Component Base Structure adn Service Base.
 
 ### Use Cases
-1. <b>Visualizations</b>
-2. <b>Multi Data Soruce</b>
-3. <b>Active Dashboard</b>
-4. <b>Advance Tranform Metrix</b>
-5. <b>Data Management</b>
+1. <b>Data Engineer</b>
+2. <b>Visualizations</b>
+3. <b>Multi Data Soruce</b>
+4. <b>Active Dashboard</b>
+5. <b>Advance Tranform Metrix</b>
+6. <b>Data Management</b>
+7. <b>Framework Management<b>
 
 ### Type of Engine
 1. <b>Game Engines</b>
