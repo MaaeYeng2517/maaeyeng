@@ -1,0 +1,6 @@
+```bash
+domain: maaeyeng.*
+framework: react,laravel,express,rail,django,fastapi
+database: mysql, postgresql
+```
+

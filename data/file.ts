@@ -1,4 +1,8 @@
-
+interface Node<T> {
+    value: T;
+    left: Node<T> | null;
+    right: Node<T> | null;
+}
 class BinarySearchTree<T> {
     root: Node<T> | null;
 

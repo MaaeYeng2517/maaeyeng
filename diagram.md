@@ -1,7 +1,7 @@
 # Diagram of AI Agent 
 
 
-## Get Start
+## AI Agent Flow
 ```mermaid
 graph LR
     A[User Request] --> B[AI Agent]
